@@ -1,0 +1,22 @@
+{
+    "models": [
+        {
+            "name": "Game Designer",
+            "api_key": "OPENAI_API_KEY",
+            "model": "gpt-4",
+            "prompt": "As a Game Designer, create a detailed concept for a 2D incremental game based on the following idea: {}"
+        },
+        {
+            "name": "Story Writer",
+            "api_key": "OPENAI_API_KEY",
+            "model": "gpt-4",
+            "prompt": "As a Story Writer, develop a compelling backstory and narrative for the 2D incremental game based on the following idea: {}"
+        },
+        {
+            "name": "UI/UX Designer",
+            "api_key": "OPENAI_API_KEY",
+            "model": "gpt-4",
+            "prompt": "As a UI/UX Designer, design a comprehensive user interface and experience for the 2D incremental game based on the following idea: {}"
+        }
+    ]
+}
